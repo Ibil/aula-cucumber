@@ -1,4 +1,4 @@
-Feature: Calculator
+Feature: Deposit
   As a user
   I want to use a bank account
   So that I deposit money
