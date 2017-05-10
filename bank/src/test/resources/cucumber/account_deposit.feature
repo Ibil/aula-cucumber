@@ -7,3 +7,4 @@ Feature: Deposit
     Given I have an account
     When I deposit 200 dollars in an empty account
     Then the result should be 200
+    
